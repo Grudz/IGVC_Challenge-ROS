@@ -2,6 +2,9 @@
 
 This repository is only set up to run the basic course north and advnaced course north. The rest of this read me is given from IGVC repository. To run this, you made need to also clone the flatland repository into your ros workspace. The link for that is below.
 
+Contacts: Ben Grudzien: bgrudzien@oakland.edu
+          Sam Tkac: samtkac@oakland.edu
+
 # 2D Simulation of IGVC
 
 This repository contains models, worlds, plugins, and configuration files for the Flatland simulator to simulate IGVC.
