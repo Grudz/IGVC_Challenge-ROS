@@ -1,4 +1,4 @@
-### IGVC Course: ECE5532 Final Project - Ben Grudzien and Sam Tkac
+# IGVC Course: ECE5532 Final Project - Ben Grudzien and Sam Tkac
 
 This repository is only set up to run the basic course north and advnaced course north. The rest of this read me is given from IGVC repository. To run this, you made need to also clone the flatland repository into your ros workspace. The link for that is below.
 
