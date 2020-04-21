@@ -22,5 +22,6 @@
   <node name="map_server" pkg="map_server" type="map_server" args="$(find igvc_flatland)/maps/advanced_course_lines.yaml"/>
 
   <node pkg="igvc_flatland" type="acn_algorithm" name="acn_algorithm" output="screen"/>
+  <node pkg="rviz" type="rviz" name="rviz_igvc_config" args="-d $(find igvc_flatland)/rviz/rviz_config.rviz" />
 
 </launch>
