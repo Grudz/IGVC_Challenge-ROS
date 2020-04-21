@@ -6,8 +6,8 @@ Contacts: Ben Grudzien: bgrudzien@oakland.edu
           Sam Tkac: samtkac@oakland.edu
 	  
 ## Video Links
-	Fun Demo vid of the "Advanced Course North": [https://www.youtube.com/watch?v=GgcfV2vkXI8]
-	Powerpoint Presentation Video: [https://www.youtube.com/watch?v=OHPAqnXtH9Q]
+	Fun Demo vid of the "Advanced Course North": [https://www.youtube.com/watch?v=GgcfV2vkXI8/
+	Powerpoint Presentation Video: https://www.youtube.com/watch?v=OHPAqnXtH9Q/
 
 # 2D Simulation of IGVC
 
