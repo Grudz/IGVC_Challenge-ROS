@@ -1,6 +1,6 @@
 # IGVC Course: ECE5532 Final Project - Ben Grudzien and Sam Tkac
 
-This repository is only set up to run the basic course north and advnaced course north. The rest of this read me is given from IGVC repository. To run this, just need to clone this repository and then launch the basic or advanced course north launch file. You do not need to clone that additional repo mentioned in the rest of the README. That is already included.
+This repository is only set up to run the basic course north and advnaced course north. The rest of this read me is given from IGVC repository. To run this, you just need to clone this repository and then launch the basic or advanced course north launch file. You do not need to clone that additional repo mentioned in the rest of the README. That is already included.
 
 Contacts: Ben Grudzien: bgrudzien@oakland.edu
           Sam Tkac: samtkac@oakland.edu
