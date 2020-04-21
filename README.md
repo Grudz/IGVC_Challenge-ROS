@@ -6,14 +6,14 @@ Contacts: Ben Grudzien: bgrudzien@oakland.edu
           Sam Tkac: samtkac@oakland.edu
 	  
 ## Video Links
-- Fun Demo vid of the "Advanced Course North": https://www.youtube.com/watch?v=GgcfV2vkXI8 (https://www.youtube.com/watch?v=GgcfV2vkXI8)
-- Powerpoint Presentation Video: https://www.youtube.com/watch?v=OHPAqnXtH9Q (https://www.youtube.com/watch?v=OHPAqnXtH9Q)
+- Fun Demo vid of the "Advanced Course North": https://www.youtube.com/watch?v=GgcfV2vkXI8 
+- Powerpoint Presentation Video: https://www.youtube.com/watch?v=OHPAqnXtH9Q 
 
 # 2D Simulation of IGVC
 
 This repository contains models, worlds, plugins, and configuration files for the Flatland simulator to simulate IGVC.
 
-## Installation
+## Installation (Flatland is already included in this repository)
 
 To use igvc_flatland, simply clone this repository and the Flatland repository into a ROS workspace of your choice. It is recommended to use the following Flatland repository: [https://github.com/robustify/flatland](https://github.com/robustify/flatland)
 
